@@ -38,7 +38,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Naveen Jakhar</span>
+              Designed & Customized<br /> by <span>Naveen Jakhar</span>
             </h2>
             <h5>
               <MdCopyright /> 2026
