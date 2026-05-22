@@ -20,7 +20,7 @@ const Career = () => {
                 <h4>Professional Program in AI & DS</h4>
                 <h5>Intellipaat | iHUB IIT Indore</h5>
               </div>
-              <h3>2025</h3>
+              <h3>2026</h3>
             </div>
 
             <p>
